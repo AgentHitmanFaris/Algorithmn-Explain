@@ -1,4 +1,4 @@
-**English** | ‎[Bahasa Melayu](/docs/ms/README.md) 
+**English** | ‎[Bahasa Melayu](/docs/ms.md) 
 
 [//]: # (/***DO NOT EDIT ABOVE THIS LINE***/)
 
