@@ -47,7 +47,7 @@ If you're an expert adventurer and want to join the quest, follow the "How to Co
 ## Content Explorer
 
 ### List Of Content
-- [Section 1:](https://github.com/AgentHitmanFaris/Algorithmn-Explain/blob/Stable/Section%201/What%20is%20an%20Algorithm%3F.md) Introduction to Algorithms for Kids 🗺️🌟 
+- [Section 1:](https://github.com/AgentHitmanFaris/Algorithmn-Explain/blob/Stable/Section%201/What%20is%20an%20Algorithm_.md) Introduction to Algorithms for Kids 🗺️🌟 
 - [Section 2:](https://github.com/AgentHitmanFaris/Algorithmn-Explain/blob/Stable/Section%202/Algorithms%20in%20Stories%20and%20Games.md ) Algorithms in Stories and Games 📚🎮
 
 ## ©️ License

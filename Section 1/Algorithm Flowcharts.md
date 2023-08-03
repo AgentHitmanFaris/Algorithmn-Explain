@@ -2,7 +2,7 @@
 # Algorithmn Explain - Introduction to Algorithms for Kids
 
 ### List Of Content
-- [What is algorithm](https://github.com/AgentHitmanFaris/Algorithmn-Explain/blob/Stable/Section%201/What%20is%20an%20Algorithm%3F.md)
+- [What is algorithm](https://github.com/AgentHitmanFaris/Algorithmn-Explain/blob/Stable/Section%201/What%20is%20an%20Algorithm_.md)
 - [How Algorithms Work](https://github.com/AgentHitmanFaris/Algorithmn-Explain/blob/Stable/Section%201/How%20Algorithms%20Work.md)
 - `**Algorithm Flowcharts**`
 

@@ -29,4 +29,4 @@ Join us in this amazing adventure where algorithms bring stories and games to li
 ---
 Feel free to add colorful images and playful examples to make it even more exciting for young minds! 🌟🌟🌟
 
-[◀️ Previous Page (Section 1)](https://github.com/AgentHitmanFaris/Algorithmn-Explain/blob/Stable/Section%201/Algorithm%20Flowcharts.md) || [🏠 Home Page](https://github.com/AgentHitmanFaris/Algorithmn-Explain/#readme) || [Next Page ▶️]()
+[◀️ Previous Page (Section 1)](https://github.com/AgentHitmanFaris/Algorithmn-Explain/blob/Stable/Section%201/What%20is%20an%20Algorithm_.md) || [🏠 Home Page](https://github.com/AgentHitmanFaris/Algorithmn-Explain/#readme) || [Next Page ▶️]()
