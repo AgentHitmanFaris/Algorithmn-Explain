@@ -1,4 +1,4 @@
-[English](https://github.com/AgentHitmanFaris/Algorithmn-Explain/blob/Stable/docs/LICENSEen.md)| **Bahasa Melayu**
+[English](https://github.com/AgentHitmanFaris/Algorithmn-Explain/blob/Stable/docs/LICENSEen.md) | **Bahasa Melayu**
 ## ©️ Kids-Only License
 
 Yay! Anda kini seorang Penjelajah Algoritma rasmi! 🎉 Projek ini direka khas untuk kanak-kanak seperti anda belajar, bermain dan berseronok dengan algoritma! Berikut ialah beberapa peraturan ajaib untuk menggunakan Algoritma Explain:
