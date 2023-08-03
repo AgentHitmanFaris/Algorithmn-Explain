@@ -1,3 +1,7 @@
+**English** | ‎[Bahasa Melayu](/docs/ms/README.md) 
+
+[//]: # (/***DO NOT EDIT ABOVE THIS LINE***/)
+
 # 🌟Algorithmn Explain - Fun with Algorithms for Kids!🌟
 
 ![Algorithmn Explain](link_to_image)
