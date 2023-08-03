@@ -44,6 +44,9 @@ Jika anda seorang pengembara pakar dan ingin menyertai pencarian, ikut bahagian 
 
 1. [🌟 Algorithmn Explain](https://agenthitmanfaris.github.io/Algorithmn%20Explain/): Tapak web yang menyeronokkan dan interaktif yang membolehkan kanak-kanak bereksperimen dengan algoritma melalui visualisasi dan permainan yang berwarna-warni.
 
+### Isi Kandungan
+- [Bab 1:](https://github.com/AgentHitmanFaris/Algorithmn-Explain/blob/Stable/Section%201/What%20is%20an%20Algorithm%3F.md) Pengenalan kepada Algoritma untuk Kanak-kanak 🗺️🌟 
+- [Bab 2:](https://github.com/AgentHitmanFaris/Algorithmn-Explain/blob/Stable/Section%202/Algorithms%20in%20Stories%20and%20Games.md ) Algoritma dalam Cerita dan Permainan 📚🎮
 
 ## ©️ Lesen
 
