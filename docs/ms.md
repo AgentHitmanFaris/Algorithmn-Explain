@@ -47,7 +47,7 @@ Jika anda seorang pengembara pakar dan ingin menyertai pencarian, ikut bahagian 
 
 ## ©️ Lesen
 
-Projek ini dilindungi oleh mantera ajaib kami - [Kids-Only License](LICENSE.md). Ini bermakna anda boleh menggunakannya untuk keseronokan dan pengembaraan pembelajaran, tetapi sila jangan lupa untuk memberi kredit kepada Penjelajah Algoritma! 🙌
+Projek ini dilindungi oleh mantera ajaib kami - [Kids-Only License](https://github.com/AgentHitmanFaris/Algorithmn-Explain/blob/Stable/LICENSE.md). Ini bermakna anda boleh menggunakannya untuk keseronokan dan pengembaraan pembelajaran, tetapi sila jangan lupa untuk memberi kredit kepada Penjelajah Algoritma! 🙌
 
 ---
 Dicipta dengan cinta dan imaginasi oleh Algorithmn Explain. Mari kita belajar bersama-sama! 🚀🌈
