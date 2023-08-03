@@ -1,3 +1,5 @@
+**English** | [Bahasa Melayu](https://github.com/AgentHitmanFaris/Algorithmn-Explain/blob/Stable/docs/LICENSEms.md)
+
 ## ©️ Kids-Only License
 
 Yay! You're now an official Algorithmn Explorer! 🎉 This project is specially designed for kids like you to learn, play, and have fun with algorithms! Here are some magical rules for using Algorithmn Explain:
