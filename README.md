@@ -38,7 +38,7 @@ If you're an expert adventurer and want to join the quest, follow the "How to Co
 
 ## 🌐 Here are some of the websites I've built to teach algorithms and computational thinking to kids:
 
-1. [🌟 Algorithms Explorers](https://agenthitmanfaris.github.io/AlgoPlayground/): A fun and interactive website that lets kids experiment with algorithms through colorful visualizations and games.
+1. [🌟 Algorithms Explorers](https://agenthitmanfaris.github.io/Algorithmn%20Explain/): A fun and interactive website that lets kids experiment with algorithms through colorful visualizations and games.
 
 
 ## ©️ License
