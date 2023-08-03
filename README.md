@@ -1,4 +1,4 @@
-# 🌟 Algorithmn Explain - Fun with Algorithms for Kids! 🌟
+# 🌟Algorithmn Explain - Fun with Algorithms for Kids!🌟
 
 ![Algorithmn Explain](link_to_image)
 
@@ -24,15 +24,22 @@ We have a superpower that helps us solve problems more effectively: computationa
 
 Calling all curious minds and young explorers! Let's learn together and build our algorithm superpowers! 🤗
 
-- 🗣️ Join the Fun: Share your thoughts, questions, and ideas with us!
-- 🐦 Tweet-Tweet: Follow us on Twitter for exciting updates and mind-blowing discoveries! [link to Twitter handle]
-- 📧 Contact Us: Have a secret message to send? Reach out to our algorithm heroes at [email address]!
+- 🗣️ Join the Fun: Share your thoughts, questions, and ideas with us! [Discord](https://discord.gg/8ZK6NCnf)
+  <!--
+  - 🐦 Tweet-Tweet: Follow us on Twitter for exciting updates and mind-blowing discoveries! [link to Twitter handle]
+  - 📧 Contact Us: Have a secret message to send? Reach out to our algorithm heroes at [email address]!
+  -->
 
 ## 🎁 Let's Start the Quest!
 
 Ready to embark on this thrilling journey? Let's go on a grand adventure to unravel the mysteries of algorithms! Just click the green "Code" button and "Download ZIP" to get started!
 
 If you're an expert adventurer and want to join the quest, follow the "How to Contribute" section below and share your magical wisdom! 🧙‍♂️✨
+
+## 🌐 Here are some of the websites I've built to teach algorithms and computational thinking to kids:
+
+1. [🌟 Algorithms Explorers](https://agenthitmanfaris.github.io/AlgoPlayground/): A fun and interactive website that lets kids experiment with algorithms through colorful visualizations and games.
+
 
 ## ©️ License
 
