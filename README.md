@@ -47,7 +47,7 @@ If you're an expert adventurer and want to join the quest, follow the "How to Co
 
 ## ©️ License
 
-This project is protected by our magic spell - the [Kids-Only License](LICENSE.md). It means you can use it for fun and learning adventures, but please don't forget to give credit to the Algorithmn Explorers! 🙌
+This project is protected by our magic spell - the [Kids-Only License](https://github.com/AgentHitmanFaris/Algorithmn-Explain/blob/Stable/docs/LICENSE.md). It means you can use it for fun and learning adventures, but please don't forget to give credit to the Algorithmn Explorers! 🙌
 
 ---
 Created with love and imagination by the Algorithmn Explorers. Let's have a blast learning together! 🚀🌈
