@@ -1,0 +1,33 @@
+# Image Prompts for "Algorithmn Explain"
+# Intended for Nano Banana or other AI Image Generators
+# Style: Disney-style 3D animation, vibrant colors, kid-friendly, highly detailed, magical, soft lighting.
+
+1. placeholder_hero.png
+Prompt: A Disney-style 3D animated illustration of a cute, expressive young child exploring a glowing, magical floating map surrounded by sparkles and little floating puzzle pieces. Vibrant colors, soft magical lighting, highly detailed, kid-friendly.
+
+2. placeholder_recipe.png
+Prompt: A Disney-style 3D animated illustration of an open, glowing magical recipe book. A cute little wizard character is stirring a floating, glowing potion. Surrounding the book are floating gears and stars representing algorithms. Bright, colorful, magical atmosphere.
+
+3. placeholder_detective.png
+Prompt: A Disney-style 3D animated illustration of a cute child dressed as a detective with a magnifying glass, standing in front of a glowing, colorful puzzle. The child has a "eureka!" expression. Soft magical lighting, vibrant, fun, highly detailed.
+
+4. placeholder_sandwich.png
+Prompt: A Disney-style 3D animated illustration of magical, floating ingredients making a peanut butter and jelly sandwich. A cute, happy character is watching in amazement. Vibrant colors, fun, kid-friendly, high quality.
+
+5. placeholder_brushing.png
+Prompt: A Disney-style 3D animated illustration of a cute character brushing their teeth in front of a magical, glowing mirror. Toothpaste sparkles like magic dust. Vibrant, clean, fun, soft lighting.
+
+6. placeholder_shoes.png
+Prompt: A Disney-style 3D animated illustration of shoelaces tying themselves like magic ribbons. A cute bunny is watching the "bunny ear loop" being formed. Colorful, highly detailed, magical, kid-friendly.
+
+7. placeholder_dance.png
+Prompt: A Disney-style 3D animated illustration of a diverse group of cute kids dancing happily on a glowing, colorful stage. Floating footprints show the sequence of the dance steps. Vibrant, energetic, fun.
+
+8. placeholder_weather.png
+Prompt: A Disney-style 3D animated illustration split in half: one side shows a cute character holding an umbrella under a gentle, magical rain, and the other side shows the same character wearing cool sunglasses under a bright, smiling sun. Disney style, colorful.
+
+9. placeholder_flowchart.png
+Prompt: A Disney-style 3D animated illustration of a giant, magical flowchart shaped like a colorful board game path in a beautiful park. Cute characters are moving along the path making decisions. Highly detailed, vibrant, fun.
+
+10. placeholder_stories.png
+Prompt: A Disney-style 3D animated illustration of a magical storybook opening up to reveal a glowing castle, video game controllers, and puzzle pieces floating out. A cute child is looking at it in awe. Magical lighting, highly detailed, vibrant colors.
